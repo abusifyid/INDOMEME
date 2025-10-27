@@ -9,7 +9,7 @@ Each data entry contains:
 - image_path 
 - hate_final (`hate` / `not hate`)  
 - appropriate_final (`appropriate` / `inappropriate`)  
-- topic: categorical label(s) representing the main subject(s) of the meme (e.g., individual, gender, religion, ethnicity, politics, etc.)
+- topic: categorical label(s) representing the main subject(s) of the meme
 - caption: visual description generated using Gemini 2.5 Flash  
 
 ## Dataset Overview
