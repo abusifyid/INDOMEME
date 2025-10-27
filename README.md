@@ -1,7 +1,6 @@
 # INDOMEME Dataset
 
-INDOMEME is the first multimodal dataset focused on Indonesian memes, collected from Facebook and manually annotated for hatefulness, appropriateness, and topical focus.  
-It is designed for research in multimodal hate speech detection, vision-language understanding, and analysis of Indonesian online culture.
+INDOMEME is the first multimodal dataset focused on Indonesian memes, collected from Facebook and manually annotated for hatefulness, appropriateness, and topical focus. It is designed for research in multimodal hate speech detection, vision-language understanding, and analysis of Indonesian online culture.
 
 ## Dataset Description
 
