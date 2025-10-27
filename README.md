@@ -16,7 +16,7 @@ Each data entry contains:
 ## Dataset Overview
 
 - Total memes: 5,023  
-- Source: Facebook (May 2025)  
+- Source: Facebook
 - OCR model: Qwen2-VL-2B  
 - Caption generator: Gemini 2.5 Flash  
 
